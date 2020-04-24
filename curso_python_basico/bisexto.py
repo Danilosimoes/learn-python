@@ -5,4 +5,5 @@ if ano == 0:
 if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
     print('O ano de {} é Bissexto'.format(ano))
 else:
-    print('O ano de {} Não é Bissexto'.format(ano))
+    #print('O ano de {} Não é Bissexto'.format(ano))
+    print(f'O ano de {ano} Não é Bissexto')

@@ -5,7 +5,7 @@ convidados = []
 
 i = 1
 while i <= int(lista_convidados):
-    nome_do_convidado = input('Coloque o nome do convidado #'+ str(i) +': ')
+    nome_do_convidado = input('Coloque o nome do convidado #' + str(i) + ': ')
     convidados.append(nome_do_convidado)
     i += 1
 
