@@ -1,0 +1,6 @@
+Nome: Maria Idade:  45 Estado:  Sao Paulo
+Nome: Joao Idade:  33 Estado:  Rio de Janeiro
+Nome: Pedro Idade:  63 Estado:  Recife
+Nome: Ana Idade:  21 Estado:  Bahia
+Nome: Bia Idade:  40 Estado:  Sao Paulo
+Nome: Carlos Idade:  14 Estado:  Minas Gerais
