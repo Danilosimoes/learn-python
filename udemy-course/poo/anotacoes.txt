@@ -1,0 +1,115 @@
+   len                (lista)
+função - alg.      Método - dado
+
+-- na forma procedural a função age como o ator principal
+
+na p.o.o
+
+
+lista    .     len()
+dado          método(dados)
+-- na orientação e objeto os dados eles atuam como ator principal
+
+
+----------------------
+o objeto é algo central = composto pr atributos e comportamentos
+atributos = dados
+comportamento = funções(métodos)
+dados, comprtamento = membros
+
+exemplo
+add(lista, item) # forma procedural
+lista.add(item) # orientada a objetos
+
+
+----------------------
+lista/tupla/set/dict = estruturas
+string/int/bul... = tipos
+
+
+-------------------------------
+classe vs objeto
+
+
+classe = molde
+objeto = instâncias criadas a partir do molde
+
+exemplo
+
+quadrado = irá gerar quadrados seguindo o padrão ou a estrutura
+quadrado = a classe
+moldes gerados = objeto
+
+
+mais exemplos....
+class
+dia, mes, ano
+
+class
+objeto_1 = dia(01), mes(10), ano(2018)
+objeto_2 = dia(17), mes(02), ano(2021)
+objeto_3 = dia(07), mes(05), ano(2020)
+# mesma estrutura, com dados diferentes
+
+a class representa uma estrutura de dados personalizada
+set/list/tuple/dict
+int/str/...
+
+
+a partir da classe define estrutura de dados, os objetos vão ter dados diferentes
+a partir de uma classe criada, cada produto vai tr sua caracteristica
+o molde é a classe..
+---------------------------------------------------
+
+
+pilares da O.O.
+
+são 4
+- Herança
+- Polimorfismo
+- Encapsulamento
+- Abstração
+------------------
+Herança = capacidade de herdar comportamento de um outro objeto.
+que vc tenha reuso de código
+ex.
+__ é um(a)__.
+civic é um carro
+carro tem séries de comportamentos, herdando para um tipo especicio = civic
+um objeto pode herdar comportamentos de um outro objeto.
+aproveitar uma funcionalidade.
+
+carro tem um motor = é uma composição, pode ser uma herança.
+------------------------------
+Encapsulamento = Usar objetos do mundo real, sem entender a parte interna do objeto.
+TV = vc precisa entender sobre o controle remoto, a parte interna fica encapsulada, conhecer a interface
+carro = basta vc lidar com a interface, passar marcha, ligar, dirigir.
+como o combstivel é queimad vc não preccisa saber..
+capacidade de esconder os detalhes de implementação.
+oq ue eu preciso passar como parametro e o que vou receber como resposta
+--------------------------
+
+Polimorfismo = capacidade de substiruir um elemento concreto por um abstrato.
+ex..
+carro = civic, celta, ferrari.
+todos se comportam com os principios de um carro.
+capacidade de substituir tipos que se comportam do mesmo jeito.
+Ver na prática...
+
+-------------------------
+
+abstração = pegar o mundo real e simplificar para o software.
+ex..
+dois sistemas.
+um pra hospital = Cliente -- tipo sanguineo, numero do plano de saude.
+outro pra mecanica = Cliente --  tipo do carro, placa
+abstrações diferentes de acordo com a necessidade.
+entender modelar a realidade, o que vai ser abstraido e simplificado pra dentro do software
+levar aquilo que é relevante..
+
+
+
+
+
+
+
