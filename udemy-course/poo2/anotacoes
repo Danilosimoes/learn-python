@@ -1,0 +1,29 @@
+Membros de instância x membros estáticos
+
+membros de instância, os valores pertencem aos objetos.
+
+mebros estátiso, os valors pertencem a classe
+
+ex instancia
+    Class data:
+        def (self, ano, mes, dia):
+            2021, 10, 05
+            d1 = Data(2, 6)
+            d1. dia = 10
+            d1 = Data(...)
+            d1.metodo()
+            # acessa o objeto
+
+ ex estático
+     Class data:
+        def (self, ano, mes, dia=05)
+            o dia sempre será 05
+            Data.dia = 05
+            Data.metodo_estatico()
+            #acessando a classe
+
+
+             data1 = Data(5,2)
+             Data.ano = 2019 # todas as datas terão o ano como 2019
+             data2 = Data(6, 10)
+             Data.ano = 2020 # ambas as datas em 2020
