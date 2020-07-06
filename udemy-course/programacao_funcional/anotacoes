@@ -1,0 +1,30 @@
+First Class Function
+a linguagem consegue trabalhar funções como dados
+------------------
+High Order functions
+Funções que conseguem receber outras funçoes como parametros e retornar uma função
+--------------------
+Anonymous Functions
+Lambda
+--------------------
+Closure
+Fechamento
+a função sabe aquilo que está ao seu redor
+e sabe o que tem dentro dela
+-------------------
+Recursion
+uma função chama ela propria
+-----------------
+Imutabillity
+dados imutavéis
+ao inves de mexer nessa lista, gerar um clone para mexer
+mutabilidade é local
+na grande maioria são dados imutaveis
+---------------------------
+
+Lazy Evalution
+deixar o processamento só quando for estritamente necessária
+--------------------------
+Threads
+é ter a capacidade dentro do processador um programa para executar processos e programas,
+simultaneamente e/ou paralelamente.
