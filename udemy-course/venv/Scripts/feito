@@ -1,0 +1,4 @@
+#!C:\Users\danil\PycharmProjects\Course\venv\Scripts\python.exe
+
+import feito
+feito.run()
