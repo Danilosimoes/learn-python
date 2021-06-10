@@ -3,7 +3,7 @@ astroid==2.4.2
 certifi==2020.6.20
 chardet==3.0.4
 colorama==0.4.3
-Django==3.0.8
+Django==3.1.12
 dodgy==0.2.1
 egcd==0.0.1.1
 feito==0.0.5
